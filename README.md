@@ -1,12 +1,11 @@
 # Django CRM with MySQL
 A simple and effective Customer Relationship Management (CRM) system built with Django and MySQL, designed to help small businesses manage customer records and interactions efficiently.
-Features
 
-Customer Record Management: Add, view, edit, and delete customer records
-User Authentication: Secure login and registration system
-User-friendly Interface: Clean and responsive web interface
-MySQL Database: Reliable data storage with MySQL
-Admin Panel: Django admin interface for advanced management
+- Customer Record Management: Add, view, edit, and delete customer records
+- User Authentication: Secure login and registration system
+- User-friendly Interface: Clean and responsive web interface
+- MySQL Database: Reliable data storage with MySQL
+- Admin Panel: Django admin interface for advanced management
 
 ## Project Structure
 
